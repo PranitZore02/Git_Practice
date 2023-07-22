@@ -4,7 +4,7 @@ def sum_of_no(lst):
         total=total+lst[i]
     return total
 
-
+print("the main ")
 
 lst=[1,2,3,4,5,6]
 result=sum_of_no(lst)
